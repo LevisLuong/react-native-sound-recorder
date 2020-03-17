@@ -15,7 +15,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 // for run time permission
-import androidx.core.app.ActivityCompat;
+import android.support.v4.app.ActivityCompat;
 import android.Manifest;
 import android.app.Activity;
 import android.content.pm.PackageManager;
